@@ -1,7 +1,7 @@
-Date,StartTime,EndTime,Title,Location,Notes,
-2026-07-04,14:00,16:00,Helsby (A),Helsby Sports Club,Friendly,
-2026-07-08,19:00,21;00,Rainhill Town (A),Rainhill High School,Friendly,
-2026-07-11,15:00,17:00,Barnton (H),Viridor Community Stadium,Friendly,
-2026-08-15,19:30,21:30,MSB Woolton (A),Simpsons Ground,Friendly,
-2026-08-18,15:00,17:00,Witton Albion (H),Viridor Community Stadium,Friendly,
-2026-08-15,15:00,17:00,Flixton (A),Valley Road,Friendly,
+Date,StartTime,EndTime,StartISO,EndISO,Opponent,HomeAway,Venue,Competition,Location,Notes,UID
+2026-07-04,14:00,16:00,2026-07-04T14:00:00+01:00,2026-07-04T16:00:00+01:00,Helsby,Away,Helsby Sports Club,Friendly,Helsby Sports Club,,fixture-1-20260704T140000
+2026-07-08,19:00,21:00,2026-07-08T19:00:00+01:00,2026-07-08T21:00:00+01:00,Rainhill Town,Away,Rainhill High School,Friendly,Rainhill High School,,fixture-2-20260708T190000
+2026-07-11,15:00,17:00,2026-07-11T15:00:00+01:00,2026-07-11T17:00:00+01:00,Barnton,Home,Viridor Community Stadium,Friendly,Viridor Community Stadium,,fixture-3-20260711T150000
+2026-08-15,15:00,17:00,2026-08-15T15:00:00+01:00,2026-08-15T17:00:00+01:00,Flixton,Away,Valley Road,Friendly,Valley Road,,fixture-6-20260815T150000
+2026-08-15,19:30,21:30,2026-08-15T19:30:00+01:00,2026-08-15T21:30:00+01:00,MSB Woolton,Away,Simpsons Ground,Friendly,Simpsons Ground,,fixture-4-20260815T193000
+2026-08-18,15:00,17:00,2026-08-18T15:00:00+01:00,2026-08-18T17:00:00+01:00,Witton Albion,Home,Viridor Community Stadium,Friendly,Viridor Community Stadium,,fixture-5-20260818T150000

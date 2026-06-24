@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gbebbs/RuncornTownFixtures//EN
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:fixture-1-20260704T140000@gbebbs.github.io
+DTSTAMP:20260624T000000Z
+DTSTART:20260704T140000
+DTEND:20260704T160000
+SUMMARY:Runcorn Town vs Helsby (Away)
+LOCATION:Helsby Sports Club
+DESCRIPTION:Competition: Friendly\nVenue: Helsby Sports Club\nLocation: Helsby Sports Club
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fixture-2-20260708T190000@gbebbs.github.io
+DTSTAMP:20260624T000000Z
+DTSTART:20260708T190000
+DTEND:20260708T210000
+SUMMARY:Runcorn Town vs Rainhill Town (Away)
+LOCATION:Rainhill High School
+DESCRIPTION:Competition: Friendly\nVenue: Rainhill High School\nLocation: Rainhill High School
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fixture-3-20260711T150000@gbebbs.github.io
+DTSTAMP:20260624T000000Z
+DTSTART:20260711T150000
+DTEND:20260711T170000
+SUMMARY:Runcorn Town vs Barnton (Home)
+LOCATION:Viridor Community Stadium
+DESCRIPTION:Competition: Friendly\nVenue: Viridor Community Stadium\nLocation: Viridor Community Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fixture-4-20260815T193000@gbebbs.github.io
+DTSTAMP:20260624T000000Z
+DTSTART:20260815T193000
+DTEND:20260815T213000
+SUMMARY:Runcorn Town vs MSB Woolton (Away)
+LOCATION:Simpsons Ground
+DESCRIPTION:Competition: Friendly\nVenue: Simpsons Ground\nLocation: Simpsons Ground
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fixture-5-20260818T150000@gbebbs.github.io
+DTSTAMP:20260624T000000Z
+DTSTART:20260818T150000
+DTEND:20260818T170000
+SUMMARY:Runcorn Town vs Witton Albion (Home)
+LOCATION:Viridor Community Stadium
+DESCRIPTION:Competition: Friendly\nVenue: Viridor Community Stadium\nLocation: Viridor Community Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fixture-6-20260815T150000@gbebbs.github.io
+DTSTAMP:20260624T000000Z
+DTSTART:20260815T150000
+DTEND:20260815T170000
+SUMMARY:Runcorn Town vs Flixton (Away)
+LOCATION:Valley Road
+DESCRIPTION:Competition: Friendly\nVenue: Valley Road\nLocation: Valley Road
+END:VEVENT
+
+END:VCALENDAR
